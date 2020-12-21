@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: actions14
+  description: actioinstest
+  annotations: 
+    github.com/project-slug: skalingclouds/actionstest14
+    backstage.io/github-actions-id: skalingclouds/actionstest14
+spec:
+  type: service
+  lifecycle: experimental
+  owner: chris
